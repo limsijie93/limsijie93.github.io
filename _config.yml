@@ -1,0 +1,70 @@
+title: "Si Jie Lim"
+subtitle: "Senior Data Scientist & AI/ML Tech Lead"
+description: "Personal site, resume, and writing on AI/ML, agentic systems, and production ML platforms."
+url: "https://limsijie93.github.io"
+baseurl: ""
+locale: "en-US"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: /blog/page:num/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include:
+  - _pages
+
+author:
+  name: "Si Jie Lim"
+  avatar: false
+  bio: "Senior Data Scientist & AI/ML Tech Lead. Building production ML/LLM platforms; writing about agentic AI and applied ML."
+  location: "Remote / Open to relocation"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:limsijie93@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/limsijie93"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/si-jie-lim/"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:limsijie93@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/limsijie93"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/si-jie-lim/"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
