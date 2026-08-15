@@ -5,11 +5,11 @@ url: "https://limsijie93.github.io"
 baseurl: ""
 locale: "en-US"
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
@@ -20,9 +20,6 @@ paginate_path: /blog/page:num/
 markdown: kramdown
 kramdown:
   input: GFM
-
-include:
-  - _pages
 
 author:
   name: "Si Jie Lim"
