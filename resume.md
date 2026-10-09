@@ -5,7 +5,7 @@ permalink: /resume/
 toc: true
 toc_sticky: true
 toc_label: "Contents"
-last_synced: "2026-10-09 19:21 UTC"
+last_synced: "2026-10-09 22:25 UTC"
 ---
 
 # Si Jie Lim
