@@ -5,12 +5,19 @@ permalink: /
 author_profile: true
 ---
 
-Hi, I'm Si Jie — a senior data scientist and AI/ML tech lead with about 8 years of experience across regulated financial services, insurtech, alternative-data trading, open finance, and healthcare AI.
+**Senior Data Scientist & AI/ML Tech Lead** — I build production ML and LLM platforms that move business numbers, from 100M+ member health ecosystems to systematic trading engines.
 
-I currently lead the PULSE AI team at Teladoc Health, where I build end-to-end ML and LLM prediction platforms on Snowflake and Databricks that power an outcome-based health model across a 100M+ member base. Before that, I've built agentic crypto-trading systems, alternative-data credit-scoring engines, and satellite-imagery trading signals — spanning production ML systems and MLOps, agentic AI, and quantitative trading.
+I currently lead the 5-person **PULSE AI** team at Teladoc Health, where I own end-to-end ML/AI systems across marketing, clinical-risk, engagement, and platform workflows — and I teach data science, ML, and AI to career switchers and enterprise cohorts on the side.
 
-Alongside the day job, I teach — as a subject-matter expert and adjunct lecturer in data science, ML, and AI for bootcamps and enterprise cohorts, with a 90%+ mid-career conversion track record for the switchers I've trained.
+**Proof points, not adjectives:**
 
-This site is where I keep an up-to-date [resume](/resume/), a few [project write-ups](/projects/), and a [blog](/blog/) where I write about what's changing in AI/ML and how I'm actually using it day to day.
+- **+29% health outcomes** via the PULSE AI scoring platform (Snowflake + Databricks Lakeflow + HIPAA-compliant RAG LLM)
+- **10,000 clinicians, 50+ APIs** served by the Unified Predictions / Member360 store I built
+- **1.6 Sharpe** over 6 months on ~$500k traded notional with a sub-200ms agentic crypto-trading engine
+- **100k+ individuals scored** with an alternative-data credit engine licensed by Indonesia's regulator (OJK)
+- **+16% alpha, ~$0.5M P&L** from a satellite-imagery trading-signal engine (Mask-RCNN on Planet Labs data)
+- **90%+ career conversion** for the mid-career switchers I've trained into data roles
 
-**Currently open to new opportunities** — feel free to reach out via the links below.
+[Read my resume](/resume/){: .btn .btn--primary } [See the systems I've built](/projects/){: .btn } [Blog](/blog/){: .btn }
+
+**Currently open to new opportunities** — especially senior/staff ML, AI platform, and agentic-systems roles. Reach me via the links below.

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" viewBox="0 0 800 400" role="img">
+<title>Agentic Systematic Crypto Trading Engine pipeline</title>
+<desc>X.com signals and multi-provider price feeds including Hyperliquid perpetuals flow into an agentic LLM trading engine, served through a Redis pub-sub queue for concurrent sub-200 millisecond predictions.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3d5a73"/></marker>
+</defs>
+<text x="400" y="28" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1a2b3c">Agentic Systematic Crypto Trading Engine</text>
+<text x="400" y="48" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5a6b7c">X.com + multi-provider feeds → real-time predictions</text>
+<rect x="8" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="101" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">X.com signals</text>
+<text x="101" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">social</text>
+<text x="101" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">sentiment</text>
+<rect x="208" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="301" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Price feeds</text>
+<text x="301" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">multi-provider</text>
+<text x="301" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">Hyperliquid perps</text>
+<rect x="408" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="501" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Agentic LLM</text>
+<text x="501" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">trading</text>
+<text x="501" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">engine</text>
+<rect x="608" y="64" width="184" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="700" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Redis Pub/Sub</text>
+<text x="700" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">async queue</text>
+<text x="700" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">sub-200 ms</text>
+<line x1="194" y1="124" x2="204" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="394" y1="124" x2="404" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="594" y1="124" x2="604" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<rect x="8" y="204" width="380" height="130" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="198" y="228" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1a2b3c">Illustrative equity curve (synthetic data)</text>
+<polyline points="28,306 62,302 96,294 130,298 164,286 198,290 232,278 266,282 300,268 334,272 360,260" fill="none" stroke="#1e7e34" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="312" x2="368" y2="312" stroke="#c0ccd6" stroke-width="1"/>
+<rect x="404" y="204" width="388" height="130" rx="10" fill="#f0f4f8" stroke="#3d5a73" stroke-width="2"/>
+<text x="598" y="234" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Outcomes</text>
+<text x="598" y="260" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#145a25" font-weight="700">1.6 Sharpe ratio · 6-month window</text>
+<text x="598" y="284" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#145a25" font-weight="700">~$500k notional (~$120k revenue)</text>
+<text x="598" y="308" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#145a25" font-weight="700">sub-200 ms concurrent predictions</text>
+<text x="400" y="366" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#5a6b7c">Python · agentic LLM framework · Redis Pub/Sub · streaming pipeline · Hyperliquid</text>
+</svg>

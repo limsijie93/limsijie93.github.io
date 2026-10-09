@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" viewBox="0 0 800 400" role="img">
+<title>Marketing Intelligence Score Portfolio</title>
+<desc>Eight production scores across four decision layers — Economic Value, Member State, Action Selection and Outreach Activation — synthesized into one Expected Value score that ranks members for outreach.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3d5a73"/></marker>
+</defs>
+<text x="400" y="28" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1a2b3c">Marketing Intelligence Score Portfolio</text>
+<text x="400" y="48" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5a6b7c">8 production scores · 4 decision layers → Expected Value</text>
+<rect x="8" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="101" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Economic Value</text>
+<text x="101" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">worth of</text>
+<text x="101" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">the member</text>
+<rect x="208" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="301" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Member State</text>
+<text x="301" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">where they</text>
+<text x="301" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">are now</text>
+<rect x="408" y="64" width="186" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="501" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Action Selection</text>
+<text x="501" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">uplift + PSM</text>
+<text x="501" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">causal effect</text>
+<rect x="608" y="64" width="184" height="120" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="700" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1a2b3c">Outreach Activation</text>
+<text x="700" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">who will</text>
+<text x="700" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">engage</text>
+<line x1="194" y1="124" x2="204" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="394" y1="124" x2="404" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="594" y1="124" x2="604" y2="124" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<rect x="8" y="204" width="784" height="60" rx="10" fill="#f0f4f8" stroke="#3d5a73" stroke-width="2"/>
+<text x="400" y="229" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Expected Value synthesis → ranked outreach list</text>
+<text x="400" y="249" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">one rank combining all 8 scores</text>
+<rect x="8" y="280" width="250" height="36" rx="18" fill="#e6f4ea" stroke="#1e7e34" stroke-width="1.5"/>
+<text x="133" y="303" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#145a25">+12% upsell conversion</text>
+<rect x="270" y="280" width="290" height="36" rx="18" fill="#e6f4ea" stroke="#1e7e34" stroke-width="1.5"/>
+<text x="415" y="303" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#145a25">≥2x top-decile campaign lift</text>
+<rect x="572" y="280" width="220" height="36" rx="18" fill="#e6f4ea" stroke="#1e7e34" stroke-width="1.5"/>
+<text x="682" y="303" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#145a25">validated: A/B holdout</text>
+<text x="400" y="348" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#5a6b7c">propensity-score matching de-biasing · uplift modeling · gradient-boosted models + SHAP</text>
+</svg>

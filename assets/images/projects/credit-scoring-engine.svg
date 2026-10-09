@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" viewBox="0 0 800 390" role="img">
+<title>AI Alternative-Data Credit-Scoring Engine</title>
+<desc>Alternative data from telco, e-commerce and digital wallets plus open-finance data from over twenty institutions flows through ETL and modeling into a monitored scoring API.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3d5a73"/></marker>
+</defs>
+<text x="400" y="28" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1a2b3c">AI Alternative-Data Credit-Scoring Engine</text>
+<text x="400" y="48" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5a6b7c">data collection → ETL → modeling → monitored API</text>
+<rect x="8" y="64" width="186" height="128" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="101" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Alternative data</text>
+<text x="101" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">telco · e-commerce</text>
+<text x="101" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">digital wallets</text>
+<rect x="208" y="64" width="186" height="128" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="301" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Open finance</text>
+<text x="301" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">20+ institutions</text>
+<text x="301" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">aggregated accounts</text>
+<rect x="408" y="64" width="186" height="128" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="501" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">ETL + modeling</text>
+<text x="501" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">PostgreSQL · Spark</text>
+<text x="501" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">SageMaker training</text>
+<rect x="608" y="64" width="184" height="128" rx="10" fill="#ffffff" stroke="#3d5a73" stroke-width="2"/>
+<text x="700" y="94" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1a2b3c">Scoring API</text>
+<text x="700" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">FastAPI · K8s</text>
+<text x="700" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#4a5a6a">ES logging · Metabase</text>
+<line x1="194" y1="128" x2="204" y2="128" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="394" y1="128" x2="404" y2="128" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<line x1="594" y1="128" x2="604" y2="128" stroke="#3d5a73" stroke-width="2" marker-end="url(#a)"/>
+<rect x="8" y="208" width="784" height="52" rx="10" fill="#f0f4f8" stroke="#3d5a73" stroke-width="2"/>
+<text x="400" y="239" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1a2b3c">~100k API calls/month · Elasticsearch request/response logging · Metabase dashboards</text>
+<rect x="60" y="276" width="320" height="36" rx="18" fill="#e6f4ea" stroke="#1e7e34" stroke-width="1.5"/>
+<text x="220" y="299" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#145a25">100k+ individuals scored</text>
+<rect x="400" y="276" width="340" height="36" rx="18" fill="#e6f4ea" stroke="#1e7e34" stroke-width="1.5"/>
+<text x="570" y="299" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#145a25">OJK ICS license · IKD Batch 15</text>
+<text x="400" y="344" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#5a6b7c">Python · FastAPI · PostgreSQL · Elasticsearch · Docker · K8s · Kong · SageMaker · Athena</text>
+</svg>

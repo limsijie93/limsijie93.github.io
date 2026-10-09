@@ -5,7 +5,7 @@ permalink: /resume/
 toc: true
 toc_sticky: true
 toc_label: "Contents"
-last_synced: "2026-08-15 21:32 UTC"
+last_synced: "2026-10-09 19:21 UTC"
 ---
 
 # Si Jie Lim
@@ -30,7 +30,7 @@ Senior data scientist and AI/ML tech lead with ~8 years across regulated financi
 - Shipped an eight-score marketing-intelligence portfolio (economic value, member state, action selection, outreach activation) with an Expected Value synthesis; used propensity-score matching to de-bias observational outreach comparisons and uplift modeling to rank members by incremental (causal) effect for Action Selection, then validated top-decile uplift rankings against a randomized A/B holdout, lifting upsell conversion 12% and driving ≥2x campaign lift in top deciles.
 - Improved retention (+21% MAU) and reduced churn (-17%) across the 100M+ member base via inactivity prediction (gradient-boosted survival models, XGBoost) and personalized nudges.
 - Architected personalized recommendations across the enrollment journey to improve cost efficiency (+24% revenue; -18% cost), and pioneered a next-best-action engine to gamify engagement (+11%) and improve clinical outcomes (+14%).
-- Established the ML platform foundation on Databricks (Lakeflow Declarative Pipelines, Unity Catalog, MLflow, Azure-hosted) with dbt transformations and CI/CD + A/B-testing orchestration (Terraform, GitHub Actions), cutting deployment lead time 46% and lifting team productivity 44%; fine-tuned and productionized LLMs (QLoRA, RLHF via PyTorch and Hugging Face Transformers), reducing time to deployment 53%.
+- Owned the build-vs-buy decision to select Databricks as the ML/data platform and Snowflake as the underlying data infrastructure, then established the ML platform foundation on Databricks (Lakeflow Declarative Pipelines, Unity Catalog, MLflow, Azure-hosted) with dbt transformations and CI/CD + A/B-testing orchestration (Terraform, GitHub Actions), cutting deployment lead time 46% and lifting team productivity 44%; fine-tuned and productionized LLMs (QLoRA, RLHF via PyTorch and Hugging Face Transformers), reducing time to deployment 53%.
 - Built a RAG (retrieval-augmented generation) pipeline for the HIPAA-compliant LLM using LangChain and LlamaIndex over a Pinecone vector store, grounding LLM outputs in governed member data retrieved from the Snowflake Gold layer.
 - Realized 19% in client value by applying AI to drive better clinical outcomes for users under Value-Based Care (VBC) services.
 
@@ -57,7 +57,7 @@ Senior data scientist and AI/ML tech lead with ~8 years across regulated financi
 ### Vulcan AI – AI startup funded by EDB Singapore
 *Singapore*
 **AI Data Scientist** | Aug 2019 – Feb 2021
-- Worked embedded with the client's commodities trading desk end-to-end — from use-case discovery through delivery — building a satellite-imagery alternative-data signal engine (sourcing imagery via Planet Labs, computer-vision models via Mask-RCNN, converting inference into trading signals) and turning it into a productized, Azure-hosted offering, driving +16% alpha in palm-oil futures and up to $0.5M P&L impact (26% informational gain).
+- Used alternative data to drive commodities-trading decisions for the client's trading desk — working embedded end-to-end, from use-case discovery through delivery, building a satellite-imagery alternative-data signal engine (sourcing imagery via Planet Labs, computer-vision models via Mask-RCNN, converting inference into trading signals) and turning it into a productized, Azure-hosted offering, driving +16% alpha in palm-oil futures and up to $0.5M P&L impact (26% informational gain).
 - Deployed a computer-vision system (multi-object tracking + fruit grading) at palm-oil mills processing ~1,000 tons of fruit, lifting mill throughput and oil-extraction rate 21%.
 - Built hyper-local satellite-imagery insights for palm-oil estate planning and crop/land-use decisions, cutting land-use-planning cost 11%.
 
@@ -145,8 +145,8 @@ Senior data scientist and AI/ML tech lead with ~8 years across regulated financi
 - **Visualization & Product Analytics:** Tableau, Power BI, Metabase, Amplitude, Mixpanel
 
 ## Education
-- WorldQuant University — M.Sc. Financial Engineering, High Distinction USA (2018 – 2021)
-- Nanyang Technological University — B.Bus. (Actuarial Science) Singapore (2014 – 2017)
+- WorldQuant University — M.Sc. Financial Engineering, High Distinction USA (2018 – 2021) — light coursework exposure to financial market-data terminals (Bloomberg, Wind, FactSet, CapitalIQ)
+- Nanyang Technological University — B.Bus. (Actuarial Science) Singapore (2014 – 2017) — light coursework exposure to financial market-data terminals (Bloomberg, Wind, FactSet, CapitalIQ)
 
 ## Certifications
 - Google Cloud Certified — Professional Cloud Architect Sep 2024
